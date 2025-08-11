@@ -52,7 +52,7 @@
 <!--#else-->
         <IsRepackable>false</IsRepackable>
 <!--#endif-->
-        <DeployRevitAddin>true</DeployRevitAddin>
+        <PublicRevitAddin>true</PublicRevitAddin>
     </PropertyGroup>
 
     <ItemGroup>
